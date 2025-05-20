@@ -8,3 +8,4 @@ Jinja2
 tensorflow
 black
 isort
+tensorflow.keras
