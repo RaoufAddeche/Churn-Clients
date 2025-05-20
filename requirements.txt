@@ -4,3 +4,7 @@ matplotlib
 seaborn
 scikit-learn
 tabulate
+Jinja2
+tensorflow
+black
+isort
